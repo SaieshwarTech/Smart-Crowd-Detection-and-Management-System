@@ -58,6 +58,12 @@ CrowdSense is an edge-first safety platform that detects dangerous crowd density
 | Mobile Dashboard | Displays status, logs, and live operational visibility. |
 | Cloud Sync | Uses Firebase channels for near real-time coordination. |
 
+## Parts and Components
+
+<p align="center">
+  <img src="assets/PARTS_COMPONTS.png" alt="CrowdSense Parts and Components" width="900" />
+</p>
+
 ## Architecture
 
 ```mermaid
@@ -69,6 +75,12 @@ flowchart LR
     D --> F[Cloud Updates Firebase]
     F --> G[Flutter Admin App]
 ```
+
+## Workflow
+
+<p align="center">
+  <img src="assets/FLOW_WORK.png" alt="CrowdSense Workflow Diagram" width="900" />
+</p>
 
 ## Tech Stack
 
