@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/License-Apache%202.0-2EA44F?style=flat-square" alt="License" />
   <img src="https://img.shields.io/badge/Edge%20AI-YOLOv11-F28C28?style=flat-square" alt="YOLOv11" />
   <img src="https://img.shields.io/badge/Frontend-Flutter%20%2B%20Dart-0A84FF?style=flat-square" alt="Flutter" />
   <img src="https://img.shields.io/badge/Backend-Python%20%2B%20Flask-1F6FEB?style=flat-square" alt="Backend" />
@@ -37,6 +38,7 @@ CrowdSense is an edge-first safety platform that detects dangerous crowd density
 - [Documentation](#documentation)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
+- [Legal](#legal)
 
 ## Why CrowdSense
 
@@ -178,6 +180,12 @@ Detailed references are in [`docs/`](docs):
 2. Create a feature branch.
 3. Commit focused and tested changes.
 4. Open a pull request with clear before/after behavior.
+
+## Legal
+
+- License: Apache 2.0 ([LICENSE](LICENSE))
+- Copyright: CrowdSense Contributors ([COPYRIGHT.md](COPYRIGHT.md))
+- Patent terms: Contributor patent grant via Apache-2.0 Section 3 ([PATENTS.md](PATENTS.md))
 
 ## Team
 
